@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="Clock" size="612.000000 612.000000" />
+    <ImageTarget name="1200px-Chess_board_opening_staunton" size="1200.000000 781.000000" />
   </Tracking>
 </QCARConfig>
